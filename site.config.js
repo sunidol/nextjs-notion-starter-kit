@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'sunidol',
-  domain: 'https://www.notion.so/c4ad8fd84edd4b349865ba284b81646d',
+  domain: 'https://courageous-pine-7b3.notion.site/c4ad8fd84edd4b349865ba284b81646d',
   author: 'sunidol',
 
   // open graph metadata (optional)
