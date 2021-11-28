@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '16f500b7625740d695727ffd8a24a6c4',
+  rootNotionPageId: 'Engineering-Wiki-16f500b7625740d695727ffd8a24a6c4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'sunidol',
-  domain: 'https://courageous-pine-7b3.notion.site/Engineering-Wiki-16f500b7625740d695727ffd8a24a6c4',
+  domain: 'https://www.notion.so/Engineering-Wiki-16f500b7625740d695727ffd8a24a6c4',
   author: 'sunidol',
 
   // open graph metadata (optional)
